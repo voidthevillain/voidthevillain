@@ -2,7 +2,6 @@ Hi 👋 My name is Mihai Filip
 ============================
 
 * 🌍  I'm based in Bucharest, Romania
-* ✉️  You can contact me at [voidthevillain@gmail.com](mailto:voidthevillain@gmail.com)
 * 🧠  I'm learning React
 * ⚡  I'm a Teams Ninja
 
