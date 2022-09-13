@@ -3,7 +3,7 @@ Hi 👋 My name is Mihai Filip
 
 * 🌍  I'm based in Bucharest, Romania
 * 🧠  I'm learning React
-* ⚡  I'm a Teams Ninja
+* ⚡  I'm a Teams ninja
 
 ### Skills
 
